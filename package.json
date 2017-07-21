@@ -12,7 +12,8 @@
     "chai": "^4.1.0",
     "chai-http": "^3.0.0",
     "mocha": "^3.4.2",
-    "nock": "^9.0.14"
+    "nock": "^9.0.14",
+    "webdriverio": "^4.8.0"
   },
   "dependencies": {
     "axios": "^0.16.2",
